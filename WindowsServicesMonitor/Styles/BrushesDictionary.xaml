@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Color x:Key="DisabledControlLightColor">#FFE8EDF9</Color>
+    <Color x:Key="ControlLightColor">White</Color>
+    <Color x:Key="BorderMediumColor">#FF888888</Color>
+
+    <SolidColorBrush x:Key="PrimaryGreenColor" Color="#54b948" />
+    <SolidColorBrush x:Key="PrimaryGreyColor" Color="#f1f1f1" />
+    <SolidColorBrush x:Key="SelectedTabGreenColor" Color="#409336" />
+    <SolidColorBrush x:Key="PrimaryInterfaceFontColor" Color="#737373" />
+    <SolidColorBrush x:Key="AltInterfaceFontColor" Color="#fff" />
+
+</ResourceDictionary>
